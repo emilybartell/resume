@@ -1,0 +1,51 @@
+#top {
+  background-color: teal;
+  height: 50px;
+  width: 100%;
+}
+
+hr {
+  background-color: teal;
+  height: 1px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Felipa');
+
+body {
+  font-family: 'EB Garamond', serif;
+  font-size: 15px;
+}
+
+.container {
+  padding: 5px;
+  margin: 20px;
+}
+
+#header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+.position-date span {
+  display: inline-block;
+}
+
+.school-date span {
+  display: inline-block;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
