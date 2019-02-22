@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-family: 'Felipa', cursive;
-  font-size: 25px;
+  font-size: 30px;
   margin-bottom: 0px;
 }
 
@@ -44,6 +44,7 @@ p {
 
 .position-date span {
   display: inline-block;
+  margin-bottom: 0px;
 }
 
 .school-date span {
